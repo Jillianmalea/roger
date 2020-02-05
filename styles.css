@@ -1,0 +1,34 @@
+h3{
+border-radius: 10px;
+border-color: darkslateblue; 
+border-style: groove;
+padding: 1em;
+font-family: 'Open Sans', sans-serif;
+background-color: thistle;
+} 
+
+.h3Container{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+width: 20%;
+margin: auto;   
+
+ }
+
+
+    
+.jumbotron{
+    color:#464e51;
+    font-style: bold;
+    display: block;
+    margin: auto;
+    font-family: 'Lobster', cursive;
+text-align: center;
+margin-bottom: 2%;
+margin-top: 2%;
+background-color: thistle;
+}
+body{
+    background-image: url(https://cdn.cherryblossomwatch.com/wp-content/uploads/2019/04/cherry-blossoms-washington-dc-april-01-2019-418x-1068x713@2x.jpg);
+}
